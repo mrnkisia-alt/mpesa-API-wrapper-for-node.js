@@ -32,7 +32,7 @@ Whether you're building an e-commerce platform, a SaaS application, or a mobile 
 - **Developer-Friendly**: Clean API, extensive documentation, and working examples
 - **Well-Tested**: 49 passing unit tests with comprehensive coverage
  **Modern**: Uses latest Node.js features and best practices
- **Zero Config**: Sensible defaults that work out of the box
+ **Zero Config**: Sensible defaults that work out of the box.
 
 ---
 
